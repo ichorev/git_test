@@ -1,4 +1,4 @@
 git_test
 ========
 
-my testing git and githup
+me testing git and github
